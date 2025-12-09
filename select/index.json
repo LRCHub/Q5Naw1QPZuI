@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SUPERNOVA",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-09T07:18:53.001201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHAMPAGNE SUPERNOVA",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_CHAMPAGNE_SUPERNOVA_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Album Version)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/02_Champagne_Supernova_(Album_Version)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champagne Supernova (radio edit)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Champagne_Supernova_(radio_edit)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Champagne_Supernova_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Live at Knebworth, 11 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Champagne_Supernova_(Live_at_Knebworth,_11_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Champagne Supernova (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Champagne_Supernova_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Champagne Supernova - Brendan Lynch Mix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Champagne_Supernova_-_Brendan_Lynch_Mix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Champagne Supernova [Brendan Lynch Mix]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Champagne_Supernova_[Brendan_Lynch_Mix]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Supernova - Bonus Track",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/10_Supernova_-_Bonus_Track_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Supernova (Bonus Track)",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/11_Supernova_(Bonus_Track)_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Supernova",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/12_Supernova_Winger.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SUPERNOVA",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/13_SUPERNOVA_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Supernova (Single Edit)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/14_Supernova_(Single_Edit)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Supernova",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/15_Supernova_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Supernova",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/16_Supernova_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Supernova",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/17_Supernova_Liz_Phair.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPERNOVA",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_SUPERNOVA_KANA-BOON.txt"
+    }
+  ]
+}
